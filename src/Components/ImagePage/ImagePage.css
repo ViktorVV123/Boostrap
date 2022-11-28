@@ -1,0 +1,76 @@
+.containerImagePage{
+margin-bottom: 80px;
+
+}
+
+.ImagePage{
+    margin-top: 50px;
+    text-align: center;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 20px;
+}
+.containerImagePage{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    flex-wrap: wrap;
+
+}
+.containerAllImagePage{
+    min-width: 250px;
+    min-height: 250px;
+}
+.imageFive{
+    padding: 10px;
+    margin: 10px;
+
+}
+.textImagePage{
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    min-height: 150px;
+    min-width: 80px;
+
+}
+.h1top{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.divh1 {
+    display: flex;
+    justify-content: flex-start;
+    color: #FFFFFF;
+    text-align: left;
+
+    margin-top: 20px ;
+}
+
+.moduleLine {
+    background: #0d0e0e;
+    width: 100px;
+    height: 1px;
+    margin: 20px auto;
+}
+
+
+
+
+
+.card{
+
+    padding: 10px;
+    background: white;
+margin: 10px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+
+
+
+}
+.card-text{
+    font-size: 12px;
+    font-family: 'Nerko One', cursive;
+}

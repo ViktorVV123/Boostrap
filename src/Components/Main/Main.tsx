@@ -7,7 +7,7 @@ import main3 from '../../pictr/main3.png'
 
 export const Main = () => {
     return (
-        <div className='container-md'>
+        <div className='container-md' style={{width:'100%',marginBottom:'20px' }}>
     <div id="carouselExampleDark" className="carousel carousel-dark slide" data-bs-ride="carousel">
         <div className="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" className="active"

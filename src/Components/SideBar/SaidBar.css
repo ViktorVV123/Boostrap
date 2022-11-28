@@ -4,7 +4,7 @@
     display: inline-block;
     /*делаем чтобы наша ссылка из строчного элемента превратилась в строчно-блочный
    line-height: 1; /*Задаём высоту строки (можно в пикселях)*/
-    color: #2F73B6; /*Задаём цвет ссылки*/
+    color: #ce1111; /*Задаём цвет ссылки*/
     margin-left: 30px;
 }
 
@@ -31,6 +31,14 @@
     font-size: 30px;
 
 }
+.nav-link{
+color: black;
+}
+
+.nav-link:hover{
+    color: #3f3e3e;
+}
+
 @media (max-width: 978px) {
     .nav-item:focus:after{
         width: 50%;
