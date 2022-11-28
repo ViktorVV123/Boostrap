@@ -1,0 +1,38 @@
+
+.nav-item {
+    text-decoration: none; /*Убираем стандартное подчёркивание ссылки если оно ещё не убрано*/
+    display: inline-block;
+    /*делаем чтобы наша ссылка из строчного элемента превратилась в строчно-блочный
+   line-height: 1; /*Задаём высоту строки (можно в пикселях)*/
+    color: #2F73B6; /*Задаём цвет ссылки*/
+    margin-left: 30px;
+}
+
+.nav-item:after {
+    display: block; /*превращаем его в блочный элемент*/
+    content: ""; /*контента в данном блоке не будет поэтому в кавычках ничего не ставим*/
+    height: 1.5px; /*задаём высоту линии*/
+    width: 0%; /*задаём начальную ширину элемента (линии)*/
+    background-color: #225384; /*цвет фона элемента*/
+    transition: width 0.4s ease-in-out; /*данное свойство отвечает за плавное изменение ширины. Здесь можно задать время анимации в секундах (в данном случае задано 0.4 секунды)*/
+}
+
+.nav-item:hover:after,
+.nav-item:focus:after {
+    width: 100%;
+}
+
+.nav-item:hover {
+    color: #225384;
+}
+
+.navbar-brand {
+    font-family: 'Nerko One';
+    font-size: 30px;
+
+}
+@media (max-width: 978px) {
+    .nav-item:focus:after{
+        width: 50%;
+    }
+}
