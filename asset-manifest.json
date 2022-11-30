@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Boostrap/static/css/main.644c26c7.css",
-    "main.js": "/Boostrap/static/js/main.bc3240ca.js",
+    "main.css": "/Boostrap/static/css/main.88c189cd.css",
+    "main.js": "/Boostrap/static/js/main.e59610a2.js",
     "static/js/787.28cb0dcd.chunk.js": "/Boostrap/static/js/787.28cb0dcd.chunk.js",
     "static/media/main3.png": "/Boostrap/static/media/main3.f871a485ae436ad06b98.png",
     "static/media/main1.png": "/Boostrap/static/media/main1.d331166570aa2cde344a.png",
@@ -10,12 +10,12 @@
     "static/media/query_stats_FILL0.svg": "/Boostrap/static/media/query_stats_FILL0.c14f2086b76d41344c487f454b9cf3ac.svg",
     "static/media/description.svg": "/Boostrap/static/media/description.0de75bea90bc7148a1c1483975e0938f.svg",
     "static/media/monitoring_FILL0.svg": "/Boostrap/static/media/monitoring_FILL0.128ec1a2d15861bc67af3ae862a68ae0.svg",
-    "main.644c26c7.css.map": "/Boostrap/static/css/main.644c26c7.css.map",
-    "main.bc3240ca.js.map": "/Boostrap/static/js/main.bc3240ca.js.map",
+    "main.88c189cd.css.map": "/Boostrap/static/css/main.88c189cd.css.map",
+    "main.e59610a2.js.map": "/Boostrap/static/js/main.e59610a2.js.map",
     "787.28cb0dcd.chunk.js.map": "/Boostrap/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.644c26c7.css",
-    "static/js/main.bc3240ca.js"
+    "static/css/main.88c189cd.css",
+    "static/js/main.e59610a2.js"
   ]
 }
