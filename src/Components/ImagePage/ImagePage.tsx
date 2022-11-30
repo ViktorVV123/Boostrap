@@ -9,8 +9,8 @@ export const ImagePage = () => {
     return (
 
         <div className='container-md'><div className={'containerImagePage'}>
-            <div className={'h1top'}><h1 className={'h1Three'}>vsdfvs fvdfv
-                <div className={'moduleLine'}></div></h1></div>
+            <div className={'h1top'}><h2 className={'h1Three'}>vsdfvs fvdfv
+                <div className={'moduleLine'}></div></h2></div>
             <div className="card-group  ">
                 <div className="card "   data-aos="fade-right">
                     <img src={doc} style={{padding:'30px', }} className="rounded mx-auto " alt="..."/>

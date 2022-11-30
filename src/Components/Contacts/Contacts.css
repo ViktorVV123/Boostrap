@@ -7,8 +7,8 @@
 
     display: flex;
     justify-content: center;
-    padding: 15px;
-    flex-wrap: wrap;
+
+
 }
 .contact{
 
@@ -27,7 +27,7 @@
 .imageContact{
     background-color: #a3d1e3;
     height: 300px;
-    width: 300px;
+    max-width: 300px;
 }
 .contactText{
     margin: 10px;

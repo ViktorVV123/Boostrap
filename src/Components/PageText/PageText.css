@@ -1,0 +1,27 @@
+.ff {
+    background: url('https://kubantv.ru/storage/photos/shares/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%2034.jpg') rgba(0, 0, 0, 0.6) no-repeat center top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+    min-height: 70vh;
+    background-blend-mode: multiply;
+    margin-top: 100px;
+}
+.p-5{
+
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Nerko One';
+}
+.h2PAgeText{
+    margin-top: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Nerko One';
+}
+.material-symbols-outlined{
+    font-size: 50px;
+}

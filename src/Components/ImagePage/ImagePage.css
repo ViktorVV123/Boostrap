@@ -50,9 +50,9 @@ img{
 }
 
 .moduleLine {
-    background: #0d0e0e;
+    background: #2f62b2;
     width: 100px;
-    height: 1px;
+    height: 2px;
     margin: 20px auto;
 }
 
@@ -73,4 +73,8 @@ margin: 10px;
 .card-text{
     font-size: 12px;
     font-family: 'Nerko One', cursive;
+}
+.img-thumbnail{
+    height: 300px;
+    width: 100px;
 }
