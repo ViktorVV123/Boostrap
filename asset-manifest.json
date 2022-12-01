@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Boostrap/static/css/main.dd1425de.css",
-    "main.js": "/Boostrap/static/js/main.db2f3822.js",
+    "main.css": "/Boostrap/static/css/main.312583e0.css",
+    "main.js": "/Boostrap/static/js/main.758fcc88.js",
     "static/js/787.28cb0dcd.chunk.js": "/Boostrap/static/js/787.28cb0dcd.chunk.js",
     "static/media/main3.png": "/Boostrap/static/media/main3.f871a485ae436ad06b98.png",
     "static/media/main1.png": "/Boostrap/static/media/main1.d331166570aa2cde344a.png",
@@ -14,12 +14,12 @@
     "static/media/looks_four.svg": "/Boostrap/static/media/looks_four.896d9fea9ed050ce45412a17c707a196.svg",
     "static/media/looksone.svg": "/Boostrap/static/media/looksone.52a704daa9371ed0c5f32fa8b7d6372d.svg",
     "static/media/monitoring_FILL0.svg": "/Boostrap/static/media/monitoring_FILL0.128ec1a2d15861bc67af3ae862a68ae0.svg",
-    "main.dd1425de.css.map": "/Boostrap/static/css/main.dd1425de.css.map",
-    "main.db2f3822.js.map": "/Boostrap/static/js/main.db2f3822.js.map",
+    "main.312583e0.css.map": "/Boostrap/static/css/main.312583e0.css.map",
+    "main.758fcc88.js.map": "/Boostrap/static/js/main.758fcc88.js.map",
     "787.28cb0dcd.chunk.js.map": "/Boostrap/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd1425de.css",
-    "static/js/main.db2f3822.js"
+    "static/css/main.312583e0.css",
+    "static/js/main.758fcc88.js"
   ]
 }
